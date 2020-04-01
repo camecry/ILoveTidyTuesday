@@ -1,3 +1,3 @@
 # ILoveTidyTuesday
 
-Code repository for my TidyTuesday tweets 
+Code repository for my TidyTuesday contributions.  

@@ -33,6 +33,11 @@ Code repository for my TidyTuesday contributions.
 
 ![GitHub Logo](https://github.com/camecry/ILoveTidyTuesday/blob/master/14_04_2020_rap_artists/Rplot_hip_hop.png) 
 
+## Volcano Eruptions - TidyTuesday project 12-05-2020
+[R code](https://github.com/camecry/ILoveTidyTuesday/blob/master/12_05_2020_Volcano_eruptions/R_code_volcano.R) 
+
+![GitHub Logo](https://github.com/camecry/ILoveTidyTuesday/blob/master/12_05_2020_Volcano_eruptions/Rplot.png?raw=true) 
+
 ## Song Genres - TidyTuesday project 21-01-2020
 [R code](https://github.com/camecry/ILoveTidyTuesday/blob/master/21_01_2020_Spotifysongs/R_code_spotify.R) 
 

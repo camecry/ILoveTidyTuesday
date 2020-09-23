@@ -17,3 +17,8 @@ Code repository for my TidyTuesday contributions.
 [R code](https://github.com/camecry/ILoveTidyTuesday/blob/master/21_04_2020_GDPR/Rcode_gdpr.R) 
 
 ![GitHub Logo](https://github.com/camecry/ILoveTidyTuesday/blob/master/21_04_2020_GDPR/Rplot.png?raw=true) 
+
+## Broadway Musicals - TidyTuesday project 28-04-2020
+[R code](https://github.com/camecry/ILoveTidyTuesday/blob/master/28_04_2020_musical/28_04_2020_musical.R) 
+
+![GitHub Logo](https://github.com/camecry/ILoveTidyTuesday/blob/master/28_04_2020_musical/Rplot.png?raw=true) 

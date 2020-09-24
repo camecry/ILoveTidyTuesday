@@ -2,6 +2,10 @@
 
 Code repository for my TidyTuesday contributions.  
 
+## Himalayan climbers - TidyTuesday project 22-09-2020
+[R code](https://github.com/camecry/ILoveTidyTuesday/blob/master/22_09_2020_HimalayanClimbers/R_code.R) 
+
+![GitHub Logo](https://github.com/camecry/ILoveTidyTuesday/blob/master/22_09_2020_HimalayanClimbers/Rplot_himalayan_expeditions.png?raw=true) 
 
 ## Beer production - TidyTuesday project 31-03-2020
 [R code](https://github.com/camecry/ILoveTidyTuesday/blob/master/31_03_2020_beerproduction/R_code_beer.R) 

@@ -27,6 +27,11 @@ Code repository for my TidyTuesday contributions.
 
 ![GitHub Logo](https://github.com/camecry/ILoveTidyTuesday/blob/master/28_04_2020_musical/Rplot.png?raw=true) 
 
+## IKEA forniture - TidyTuesday project 03-11-2020
+[R code](https://github.com/camecry/ILoveTidyTuesday/blob/master/03_11_2020_IKEA/R%20code.R) 
+
+![GitHub Logo](https://github.com/camecry/ILoveTidyTuesday/blob/master/03_11_2020_IKEA/Rplot_IKEA.png?raw=true) 
+
 ## NFL Stadium Attendance - TidyTuesday project 04-02-2020
 [R code](https://github.com/camecry/ILoveTidyTuesday/blob/master/04_02_2020_NFL/R%20code.R) 
 
